@@ -1,0 +1,10 @@
+D:\chantarat Saikajang\ep4-2\ep4-2\bin\Debug\ep4-2.exe.config
+D:\chantarat Saikajang\ep4-2\ep4-2\bin\Debug\ep4-2.exe
+D:\chantarat Saikajang\ep4-2\ep4-2\bin\Debug\ep4-2.pdb
+D:\chantarat Saikajang\ep4-2\ep4-2\bin\Debug\ep4-2.xml
+D:\chantarat Saikajang\ep4-2\ep4-2\obj\Debug\WindowsApplication2.Form1.resources
+D:\chantarat Saikajang\ep4-2\ep4-2\obj\Debug\WindowsApplication2.Resources.resources
+D:\chantarat Saikajang\ep4-2\ep4-2\obj\Debug\ep4-2.vbproj.GenerateResource.Cache
+D:\chantarat Saikajang\ep4-2\ep4-2\obj\Debug\ep4-2.exe
+D:\chantarat Saikajang\ep4-2\ep4-2\obj\Debug\ep4-2.xml
+D:\chantarat Saikajang\ep4-2\ep4-2\obj\Debug\ep4-2.pdb

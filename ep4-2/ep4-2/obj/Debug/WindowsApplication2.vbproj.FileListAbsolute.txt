@@ -1,0 +1,11 @@
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Lenovo-20\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache

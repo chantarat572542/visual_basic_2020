@@ -1,0 +1,10 @@
+D:\chantarat Saikajang\LuckyNine\LuckyNine\bin\Debug\LuckyNine.exe.config
+D:\chantarat Saikajang\LuckyNine\LuckyNine\bin\Debug\LuckyNine.exe
+D:\chantarat Saikajang\LuckyNine\LuckyNine\bin\Debug\LuckyNine.pdb
+D:\chantarat Saikajang\LuckyNine\LuckyNine\bin\Debug\LuckyNine.xml
+D:\chantarat Saikajang\LuckyNine\LuckyNine\obj\Debug\WindowsApplication1.Form1.resources
+D:\chantarat Saikajang\LuckyNine\LuckyNine\obj\Debug\WindowsApplication1.Resources.resources
+D:\chantarat Saikajang\LuckyNine\LuckyNine\obj\Debug\LuckyNine.vbproj.GenerateResource.Cache
+D:\chantarat Saikajang\LuckyNine\LuckyNine\obj\Debug\LuckyNine.exe
+D:\chantarat Saikajang\LuckyNine\LuckyNine\obj\Debug\LuckyNine.xml
+D:\chantarat Saikajang\LuckyNine\LuckyNine\obj\Debug\LuckyNine.pdb

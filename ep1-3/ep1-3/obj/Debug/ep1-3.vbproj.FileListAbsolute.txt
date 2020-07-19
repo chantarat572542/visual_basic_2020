@@ -1,0 +1,11 @@
+D:\chantarat Saikajang\ep1-3\ep1-3\bin\Debug\ep1-3.exe.config
+D:\chantarat Saikajang\ep1-3\ep1-3\bin\Debug\ep1-3.exe
+D:\chantarat Saikajang\ep1-3\ep1-3\bin\Debug\ep1-3.pdb
+D:\chantarat Saikajang\ep1-3\ep1-3\bin\Debug\ep1-3.xml
+D:\chantarat Saikajang\ep1-3\ep1-3\obj\Debug\ep1-3.vbprojResolveAssemblyReference.cache
+D:\chantarat Saikajang\ep1-3\ep1-3\obj\Debug\WindowsApplication1.Form1.resources
+D:\chantarat Saikajang\ep1-3\ep1-3\obj\Debug\WindowsApplication1.Resources.resources
+D:\chantarat Saikajang\ep1-3\ep1-3\obj\Debug\ep1-3.vbproj.GenerateResource.Cache
+D:\chantarat Saikajang\ep1-3\ep1-3\obj\Debug\ep1-3.exe
+D:\chantarat Saikajang\ep1-3\ep1-3\obj\Debug\ep1-3.xml
+D:\chantarat Saikajang\ep1-3\ep1-3\obj\Debug\ep1-3.pdb
